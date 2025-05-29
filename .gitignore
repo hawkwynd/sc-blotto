@@ -1,4 +1,7 @@
 node_modules/
+.vscode/
 ./*.conf
 GeoIP.conf
 config.json
+package.json
+package-log.json
