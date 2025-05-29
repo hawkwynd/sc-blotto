@@ -3,5 +3,4 @@ node_modules/
 ./*.conf
 GeoIP.conf
 config.json
-package.json
 package-lock.json
